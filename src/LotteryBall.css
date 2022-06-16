@@ -1,0 +1,13 @@
+.Ball {
+    background-color: teal;
+    border-radius: 100%;
+    color: aliceblue;
+    display: inline-block;
+    width: 3.2em;
+    height: 2.5em;
+    padding-top: 0.75em;
+    text-align: center;
+    margin-right: 0.5em;
+    font-weight: bold;
+    font-size: 1.6em;
+}
